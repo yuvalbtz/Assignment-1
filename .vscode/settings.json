@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/yuval/c projects/Assignment-1",
+            "binaryPath": "/home/yuval/c projects/Assignment-1/mains",
+            "binaryArgs": []
+        }
+    ]
+}
