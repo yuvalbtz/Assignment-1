@@ -8,7 +8,6 @@ void printNumbersInRange(int start, int end);
 
 
 void printNumbersInRange(int start, int end){
-     printf("\n");
      printf("The Armstrong numbers are:", start, end);
     for (int i = start; i <= end; ++i) {
         if (isArmstrong(i)) {
